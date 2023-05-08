@@ -1,2 +1,2 @@
 # Chess
-A Multiplayer Chess Application
+A multiplayer chess application
